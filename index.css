@@ -2,32 +2,32 @@ body {
   background-color: hsl(0, 0%, 95%);
   font-size: 15px;
   color: hsla(0, 0%, 100%, 0.75);
-  font-family: 'Lexend Deca', sans-serif;
+  font-family: "Lexend Deca", sans-serif;
   text-align: left;
   font-weight: 400;
 }
-h3{
-  font-family: 'Big Shoulders Display', cursive;
+h3 {
+  font-family: "Big Shoulders Display", cursive;
   color: hsl(0, 0%, 95%);
   font-weight: 700;
 }
-button{
+button {
   background-color: hsl(0, 0%, 95%);
   border-radius: 20px;
   border: 1px solid;
   border-color: hsl(0, 0%, 95%);
   padding: 10px 20px;
 }
-.b1:hover{
+.b1:hover {
   background-color: hsl(31, 77%, 52%);
 }
-.b2:hover{
+.b2:hover {
   background-color: hsl(184, 100%, 22%);
 }
-.b3:hover{
+.b3:hover {
   background-color: hsl(179, 100%, 13%);
 }
-.brand{
+.brand {
   width: 51%;
   margin: auto;
   display: flex;
@@ -36,21 +36,20 @@ button{
   min-height: 100vh;
   flex-direction: row;
 }
-.sedan{
+.sedan {
   background-color: hsl(31, 77%, 52%);
   width: 100%;
   padding: 2em;
   border-radius: 12px 0 0 12px;
 }
-.suv{
+.suv {
   background-color: hsl(184, 100%, 22%);
   width: 100%;
   padding: 2em;
 }
-.luxury{
+.luxury {
   background-color: hsl(179, 100%, 13%);
   width: 100%;
   padding: 2em;
   border-radius: 0 12px 12px 0;
 }
-
